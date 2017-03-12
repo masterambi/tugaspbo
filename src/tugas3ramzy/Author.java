@@ -6,8 +6,8 @@
 package tugas3ramzy;
 
 /**
- *
- * @author ramzyrashaunarief
+ * 
+ * @author ramzyrashaunarieff
  */
 public class Author implements Taxable{
     private String name;
